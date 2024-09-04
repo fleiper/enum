@@ -1,0 +1,24 @@
+package enem;
+
+public enum People {
+	CARLOS,
+	ISABELY,
+	MARIA_LUISA,
+	REBECA,
+	FELLIPE,
+	SAMUEL,
+	RUDRIAN,
+	ADRIANO,
+	ADAUTO,
+	MELISSA,
+	NICOLLE,
+	LUCAS,
+	JOTA,
+	PRISCILA,
+	REZENDE,
+	AUTHENTIC,
+	PAC,
+	MIKE,
+	THIBA,
+	THIAGO
+}
